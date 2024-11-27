@@ -1,0 +1,62 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 900;
+    text-align: center;
+}
+
+body{
+
+    background-color: chartreuse;
+}
+ 
+nav{
+
+    background-color: red;
+    padding: 1%;
+}
+
+h1{
+
+  background-color: red;
+  color: green rgb( 9, 196, )
+}
+ 
+p{
+    background-color: green;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 2%;
+ 
+}
+
+.Nome cognome{
+    background-color:yellow;
+    color:red
+}
+ 
+.allineamento-dx-leggero{
+
+    text-align: left;
+    font-weight: 100;
+ 
+}
+ 
+ 
+.viva-2C-legger{
+
+   background-color:chocolate
+   text-align: left;
+   font-weight:200
+}
+ 
+.container{
+
+    display: flex;
+    background-color: cadetblue;
+}
+ 
+.container2{
+    
+    background-color: blueviolet;
+}
+ha il menu contestuale
